@@ -1,0 +1,8 @@
+{
+  "name": "Controllerrow",
+  "description": "A native vibecoding app with speech-to-text functionality and high thinking mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
